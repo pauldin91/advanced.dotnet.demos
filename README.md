@@ -1,4 +1,4 @@
-# advanced_dotnet_demos
+# advanced.dotnet.demos
 
 A repository that aims to showcase the strengths of C# and .NET Core
 in a comprehensive test driven approach. A variety of demos is exlored 
